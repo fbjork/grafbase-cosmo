@@ -1,12 +1,12 @@
 # Grafbase + Cosmo example
 
-# Getting Started
+## Getting Started
 
-# Install and run Cosmo
+## Install and run Cosmo
 Follow these steps:
 https://github.com/wundergraph/cosmo#getting-started
 
-# Configure the Cosmo data source
+## Configure the Cosmo data source
 
 Set the following environment variables:
 
@@ -15,7 +15,7 @@ COSMO_API_URL=
 COSMO_API_KEY=
 ```
 
-# Run Grafbase
+## Run Grafbase
 
 ```
 npx grafbase@latest dev
