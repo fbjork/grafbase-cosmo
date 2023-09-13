@@ -1,5 +1,7 @@
 # Grafbase + Cosmo example
 
+This example shows how to setup Grafbase Edge Caching in front of a Cosmo router.
+
 ### Install and run Cosmo
 Follow these steps:
 https://github.com/wundergraph/cosmo#getting-started

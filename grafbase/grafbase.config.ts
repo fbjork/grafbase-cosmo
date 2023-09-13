@@ -16,7 +16,7 @@ export default config({
       {
         types: ['Query'],
         maxAge: 60,
-        staleWhileRevalidate: 60
+        staleWhileRevalidate: 60,
       }
     ]
   }
